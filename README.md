@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, Mi nombre es Leonel Castellon👋
 
-<!--
-**Leo-castellon/Leo-castellon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### DATA ANALYST JUNIOR - FULLSTACK DEVELOPER
 
-Here are some ideas to get you started:
+Ingeniero de Sistemas, actualmente cursando una especialización en análisis de datos, con conocimientos en análisis y procesamiento de información, bases de datos y desarrollo de aplicaciones web. Cuento con experiencia académica en el manejo de Excel, SQL y Power BI para la extracción, limpieza, transformación, análisis y visualización de datos, así como en tecnologías de desarrollo como Python, JavaScript y PHP, y herramientas de control de versiones como Git. Me caracterizo por mi capacidad analítica, organización y atención al detalle, con interés en el análisis de datos, desarrollo Full Stack y optimización de procesos mediante soluciones tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Desarrollo
+
+- Python
+- Java
+- JavaScript
+- Php
+- Git
+
+## Analisis de Datos
+
+- SQL 
+- PowerBI
+- Excel
+- PySpark
+- Azure DataBricks
+- Machine Learning
+
+## Contacto
+
+LinkedIn: www.linkedin.com/in/leonel-castellon-yanez-9b3706408
+
+Correo: cl485443@gmail.com
+
